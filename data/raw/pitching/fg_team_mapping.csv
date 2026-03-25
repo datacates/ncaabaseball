@@ -1,0 +1,308 @@
+Team,FullTeamName,teamid
+AAMU,Alabama A&M University ,7
+ACU,Abilene Christian University ,1
+AFA,U.S. Air Force Academy ,2
+AKR,University of Akron ,3
+ALA,University of Alabama Tuscaloosa ,4
+ALB,University at Albany ,8
+ALCN,Alcorn State University ,9
+ALST,Alabama State University ,6
+AMCC,Texas A&M University Corpus Christi ,266
+APP,Appalachian State University ,10
+APSU,Austin Peay State University ,19
+ARIZ,University of Arizona ,12
+ARK,University of Arkansas Fayetteville ,13
+ARMY,U.S. Military Academy ,17
+ARST,Arkansas State University ,14
+ASU,Arizona State University ,11
+AUB,Auburn University ,18
+BALL,Ball State University ,20
+BAY,Baylor University ,21
+BC,Boston College ,26
+BCU,Bethune Cookman University ,24
+BEL,Belmont University ,22
+BELL,Bellarmine University ,23
+BGSU,Bowling Green State University ,27
+BING,State University of New York at Binghamton ,25
+BRAD,Bradley University ,28
+BRWN,Brown University ,30
+BRY,Bryant University ,31
+BUCK,Bucknell University ,32
+BUT,Butler University ,33
+BYU,Brigham Young University ,29
+CAL,University of California Berkeley ,37
+CAM,Campbell University ,41
+CAN,Canisius College ,42
+CARK,University of Central Arkansas ,46
+CBU,California Babtist University,39
+CCSU,Central Connecticut State University ,45
+CCU,Coastal Carolina University ,50
+CHSO,Charleston Southern University ,47
+CIN,University of Cincinnati ,48
+CIT,The Citadel ,269
+CLEM,Clemson University ,49
+CLT,University of North Carolina Charlotte ,186
+CMU,Central Michigan University ,44
+COFC,College of Charleston (South Carolina) ,51
+COLU,Columbia University,52
+CONN,University of Connecticut ,53
+COPP,Coppin State University ,54
+COR,Cornell University ,55
+CP,California Polytechnic State University ,34
+CREI,Creighton University ,56
+CSUB,California State University Bakersfield,40
+CSUF,California State University Fullerton ,35
+CSUN,California State University Northridge ,36
+DART,Dartmouth College ,58
+DAV,Davidson College ,59
+DAY,University of Dayton ,60
+DBU,Dallas Baptist University ,57
+DEL,University of Delaware ,61
+DSU,Delaware State University ,62
+DUKE,Duke University ,64
+ECU,East Carolina University ,65
+EIU,Eastern Illinois University ,69
+EKU,Eastern Kentucky University ,68
+ELON,Elon University ,70
+EMU,Eastern Michigan University ,66
+ETSU,East Tennessee State University ,67
+EVAN,University of Evansville ,71
+FAIR,Fairfield University ,72
+FAMU,Florida A&M University ,77
+FAU,Florida Atlantic University ,75
+FDU,Fairleigh Dickinson University Metropolitan ,73
+FGCU,Florida Gulf Coast University ,79
+FIU,Florida International University ,76
+FLA,University of Florida ,74
+FOR,Fordham University ,80
+FRES,California State University Fresno ,81
+FSU,Florida State University ,78
+GASO,Georgia Southern University ,87
+GAST,Georgia State University ,89
+GCU,Grand Canyon University ,92
+GMU,George Mason University ,83
+GONZ,Gonzaga University ,90
+GRAM,Grambling State University ,91
+GT,Georgia Institute of Technology ,88
+GTWN,Georgetown University ,85
+GW,George Washington University ,84
+GWEB,Gardner-Webb University ,82
+HALL,Seton Hall University ,228
+HARV,Harvard University ,93
+HAW,University of Hawaii Manoa ,94
+HC,College of the Holy Cross ,97
+HCU,Houston Christian University,99
+HOF,Hofstra University ,96
+HOU,University of Houston ,98
+HPU,High Point University ,95
+ILL,University of Illinois Urbana-Champaign ,100
+ILST,Illinois State University ,101
+INST,Indiana State University ,105
+IONA,Iona College ,106
+IOWA,University of Iowa ,107
+IU,Indiana University Bloomington ,104
+JAX,Jacksonville University ,109
+JKST,Jackson State University ,111
+JMU,James Madison University ,112
+JOES,Saint Joseph's University ,244
+JVST,Jacksonville State University ,110
+KENN,Kennesaw State University ,115
+KENT,Kent State University ,116
+KSU,Kansas State University ,114
+KU,University of Kansas ,113
+LAF,Lafayette College ,118
+LAM,Lamar University ,119
+LBSU,Long Beach State University ,125
+LEH,Lehigh University ,121
+LEM,Le Moyne College ,120
+LIB,Liberty University ,122
+LIN,Lindenwood University,123
+LIP,Lipscomb University ,124
+LIU,Long Island University Brooklyn Campus ,127
+LMU,Loyola Marymount University ,133
+LONG,Longwood University ,126
+LOU,University of Louisville ,129
+LR,University of Arkansas Little Rock ,15
+LSU,Louisiana State University ,130
+LT,Louisiana Tech University ,132
+M-OH,Miami University (Ohio) ,149
+MAN,Manhattan College ,135
+MASS,University of Massachusetts Amherst ,141
+MCN,McNeese State University ,143
+MD,University of Maryland College Park ,136
+ME,University of Maine Orono ,134
+MEM,University of Memphis ,144
+MER,Mercer University ,145
+MERC,Mercyhurst College ,311
+MIA,University of Miami (Florida) ,148
+MICH,University of Michigan ,150
+MILW,University of Wisconsin Milwaukee ,302
+MINN,University of Minnesota Twin Cities ,153
+MISS,University of Mississippi ,154
+MIZ,University of Missouri Columbia ,157
+MONM,Monmouth University ,159
+MORE,Morehead State University ,160
+MOST,Missouri State University ,158
+MRMK,Merrimack College ,147
+MRSH,Marshall University ,140
+MRST,Marist College ,139
+MSM,Mount St. Mary's University ,161
+MSST,Mississippi State University ,155
+MSU,Michigan State University ,151
+MTSU,Middle Tennessee State University ,152
+MUR,Murray State University ,162
+MVSU,Mississippi Valley State University ,156
+NAVY,U.S. Naval Academy ,163
+NCAT,North Carolina A&T State University ,188
+NCSU,North Carolina State University ,176
+ND,University of Notre Dame ,191
+NDSU,North Dakota State University ,179
+NE,Northeastern University ,181
+NEB,University of Nebraska Lincoln ,164
+NEV,University of Nevada ,166
+NIA,Niagara University ,172
+NICH,Nicholls State University ,173
+NIU,Northern Illinois University ,183
+NJIT,New Jersey Institute of Technology ,171
+NKU,Northern Kentucky University ,189
+NMSU,New Mexico State University ,169
+NORF,Norfolk State University ,174
+NU,Northwestern University ,184
+NWST,Northwestern State University ,185
+OAK,Oakland University ,192
+ODU,Old Dominion University ,197
+OHIO,Ohio University ,193
+OKST,Oklahoma State University ,196
+OMA,University of Nebraska at Omaha ,165
+ORE,University of Oregon,200
+ORST,Oregon State University ,199
+ORU,Oral Roberts University ,198
+OSU,Ohio State University ,194
+OU,University of Oklahoma ,195
+PAC,University of the Pacific ,201
+PENN,University of Pennsylvania ,202
+PEPP,Pepperdine University ,204
+PFW,Indiana University-Purdue University Fort Wayne ,108
+PITT,University of Pittsburgh ,205
+PORT,University of Portland ,206
+PRES,Presbyterian College ,208
+PRIN,Princeton University ,209
+PSU,Pennsylvania State University ,203
+PUR,Purdue University ,210
+PV,Prairie View A&M University ,207
+QUC,Queens University of Charlotte,211
+QUIN,Quinnipiac University ,212
+RAD,Radford University ,213
+RGV,University of Texas Rio Grande Valley,268
+RICE,Rice University ,215
+RICH,University of Richmond ,216
+RID,Rider University ,217
+RUTG,Rutgers State Univ of New Jersey New Brunswick ,218
+SAC,California State University Sacramento ,38
+SAM,Samford University ,221
+SBU,St. Bonaventure University ,243
+SC,University of South Carolina Columbia ,231
+SCU,Santa Clara University ,226
+SDST,South Dakota State University ,232
+SDSU,San Diego State University ,222
+SEA,Seattle University,227
+SELA,Southeastern Louisiana University ,238
+SEMO,Southeast Missouri State University ,234
+SF,University of San Francisco ,223
+SFA,Stephen F. Austin State University ,252
+SHSU,Sam Houston State University ,220
+SHU,Sacred Heart University ,219
+SIE,Siena College ,229
+SIU,Southern Illinois University at Carbondale ,235
+SIUE,Southern Illinois University Edwardsville ,241
+SJSU,San Jose State University ,224
+SJU,St. John's University (New York) ,247
+SLU,Saint Louis University ,245
+SMC,St. Mary's College of California ,246
+SOU,Southern University Baton Rouge ,239
+SPU,St. Peter's College ,248
+STAN,Stanford University ,250
+STBK,Stony Brook University ,253
+STET,Stetson University ,251
+STMN,University of St. Thomas (Minnesota) ,249
+STO,Stonehill College ,254
+TA&M,Texas A&M University College Station ,263
+TAR,Tarleton State University ,255
+TCU,Texas Christian University ,259
+TENN,University of Tennessee Knoxville ,256
+TEX,University of Texas at Austin ,265
+TNTC,Tennessee Technological University ,257
+TOL,University of Toledo ,270
+TOW,Towson University ,271
+TROY,Troy University ,272
+TTU,Texas Tech University ,260
+TULN,Tulane University ,273
+TXSO,Texas Southern University ,267
+TXST,Texas State University San Marcos ,264
+UAB,University of Alabama at Birmingham ,5
+UAPB,University of Arkansas Pine Bluff ,16
+UCD,University of California Davis ,277
+UCF,University of Central Florida ,43
+UCI,University of California Irvine ,274
+UCLA,University of California Los Angeles ,279
+UCR,University of California Riverside ,276
+UCSB,University of California Santa Barbara ,275
+UCSD,University of California San Diego ,278
+UGA,University of Georgia ,86
+UIC,University of Illinois at Chicago ,102
+UIW,University of the Incarnate Word ,103
+UK,University of Kentucky ,117
+UL,University of Louisiana at Lafayette ,131
+ULM,University of Louisiana at Monroe ,128
+UMBC,University of Maryland Baltimore County ,137
+UMES,University of Maryland Eastern Shore ,138
+UML,University of Massachusetts at Lowell ,142
+UNA,University of North Alabama ,190
+UNC,University of North Carolina Chapel Hill ,175
+UNCA,University of North Carolina Asheville ,177
+UNCG,University of North Carolina at Greensboro ,178
+UNCO,University of Northern Colorado ,182
+UNCW,University of North Carolina Wilmington ,187
+UNF,University of North Florida ,180
+UNLV,University of Nevada Las Vegas ,167
+UNM,University of New Mexico ,168
+UNO,University of New Orleans ,170
+UPST,University of South Carolina Upstate ,242
+URI,University of Rhode Island,214
+USA,University of South Alabama ,230
+USC,University of Southern California ,237
+USD,University of San Diego ,225
+USF,University of South Florida ,233
+USI,University of Southern Indiana ,240
+USM,University of Southern Mississippi ,236
+UTA,University of Texas at Arlington ,261
+UTAH,University of Utah ,280
+UTM,University of Tennessee at Martin ,258
+UTSA,University of Texas at San Antonio ,262
+UTU,Dixie State College of Utah ,63
+UVA,University of Virginia ,285
+UVU,Utah Valley State College ,281
+VAL,Valparaiso University ,282
+VAN,Vanderbilt University ,283
+VCU,Virginia Commonwealth University ,286
+VILL,Villanova University ,284
+VMI,Virginia Military Institute ,287
+VT,Virginia Polytechnic Institute & State University ,288
+W&M,College of William and Mary ,300
+WAG,Wagner College ,289
+WAKE,Wake Forest University ,290
+WASH,University of Washington ,291
+WCU,Western Carolina University ,297
+WES,University of West Georgia ,312
+WICH,Wichita State University ,299
+WIN,Winthrop University ,301
+WIU,Western Illinois University ,293
+WKU,Western Kentucky University ,294
+WMU,Western Michigan University ,295
+WOF,Wofford College ,303
+WRST,Wright State University ,304
+WSU,Washington State University ,292
+WVU,West Virginia University ,296
+XAV,Xavier University ,305
+YALE,Yale University ,306
+YSU,Youngstown State University ,307

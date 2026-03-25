@@ -1,0 +1,616 @@
+Round,Pick,Name,Pos,School,School_Class,Signed,Bonus
+1,1,Eli Willits,SS,Fort Cobb-Broxton HS,HS SR,Y,8200000
+1,2,Tyler Bremner,P,UC Santa Barbara,4YR JR,Y,7689525
+1,3,Kade Anderson,P,LSU,4YR SO,Y,8800000
+1,4,Ethan Holliday,SS,Stillwater HS,HS SR,Y,9000000
+1,5,Liam Doyle,P,Tennessee,4YR JR,Y,7250000
+1,6,Seth Hernandez,P,Corona HS,HS SR,Y,7250000
+1,7,Aiva Arquette,SS,Oregon State,4YR JR,Y,7149900
+1,8,JoJo Parker,SS,Purvis HS,HS SR,Y,6197500
+1,9,Steele Hall,SS,Hewitt-Trussville HS,HS SR,Y,5750000
+1,10,Billy Carlson,SS,Corona HS,HS SR,Y,6235900
+1,11,Jamie Arnold,P,Florida State,4YR JR,Y,5985100
+1,12,Gavin Fien,3B,Great Oak HS,HS SR,Y,4800000
+1,13,Gavin Kilen,SS,Tennessee,4YR JR,Y,5247500
+1,14,Daniel Pierce,SS,Mill Creek HS,HS SR,Y,4313100
+1,15,Kyson Witherspoon,P,Oklahoma,4YR JR,Y,5000000
+1,16,Marek Houston,SS,Wake Forest,4YR JR,Y,4497500
+1,17,Ethan Conrad,OF,Wake Forest,4YR JR,Y,3563100
+1,18,Kayson Cunningham,SS,Lady Bird Johnson HS,HS SR,Y,4581900
+1,19,Ike Irish,C,Auburn,4YR JR,Y,4418400
+1,20,Andrew Fischer,3B,Tennessee,4YR JR,Y,3500000
+1,21,Xavier Neyens,SS,Mt. Vernon HS,HS SR,Y,4120000
+1,22,Tate Southisene,SS,Basic HS,HS SR,Y,2622500
+1,23,Sean Gamble,OF,IMG Academy,HS SR,Y,3997500
+1,24,Jordan Yost,SS,Sickles HS,HS SR,Y,3250000
+1,25,Kruz Schoolcraft,P,Sunset HS,HS SR,Y,3606600
+1,26,Gage Wood,P,Arkansas,4YR JR,Y,3000000
+1,27,Jace LaViolette,OF,Texas A&M,4YR JR,Y,4000000
+1,38,Mitch Voit,2B,Michigan,4YR JR,Y,1750000
+1,39,Dax Kilby,SS,Newnan HS,HS SR,Y,2797500
+1,40,Zachary Root,P,Arkansas,4YR JR,Y,2197500
+PPI,28,Josh Hammond,SS,Wesleyan Christian Academy,HS SR,Y,3197500
+1C,29,Patrick Forbes,P,Louisville,4YR JR,Y,3000000
+1C,30,Caden Bodine,C,Coastal Carolina,4YR JR,Y,3113300
+1C,31,Wehiwa Aloy,SS,Arkansas,4YR JR,Y,3042800
+1C,32,Brady Ebel,SS,Corona HS,HS SR,Y,2750000
+CB-A,33,Marcus Phillips,P,Tennessee,4YR JR,Y,2500000
+CB-A,34,Michael Oliveto,C,Hauppauge HS,HS SR,Y,2447500
+CB-A,35,Luke Stevenson,C,North Carolina,4YR SO,Y,2800000
+CB-A,36,Riley Quick,P,Alabama,4YR JR,Y,2692000
+CB-A,37,Slater de Brun,OF,Summit HS,HS SR,Y,4000000
+CB-A,41,Charles Davalan,OF,Arkansas,4YR SO,Y,1997500
+CB-A,42,Brendan Summerhill,OF,Arizona,4YR JR,Y,1997500
+CB-A,43,Cam Cannarella,OF,Clemson,4YR JR,Y,2277425
+2,44,Jaden Fauske,OF,Nazareth Academy,HS SR,Y,2997500
+2,45,JB Middleton,P,Southern Mississippi,4YR JR,Y,2071900
+2,46,Brandon Compton,OF,Arizona State,4YR JR,Y,2000000
+2,47,Chase Shores,P,LSU,4YR JR,Y,2077200
+2,48,Devin Taylor,OF,Indiana,4YR JR,Y,2500000
+2,49,Ethan Petry,OF,South Carolina,4YR JR,Y,2090000
+2,50,Angel Cervantes,P,Warren HS,HS SR,N,
+2,51,Aaron Watson,P,Trinity Christian Academy,HS SR,Y,2747500
+2,52,AJ Russell,P,Tennessee,4YR JR,Y,2600000
+2,53,Cooper Flemming,SS,Aliso Niguel HS,HS SR,Y,1803500
+2,54,Quentin Young,SS,Oaks Christian HS,HS SR,Y,1761600
+2,55,Ryan Mitchell,OF,Houston HS,HS SR,Y,2250000
+2,56,Kane Kepley,OF,North Carolina,4YR SO,Y,1400000
+2,57,Nick Becker,SS,Don Bosco Prep HS,HS SR,Y,2750000
+2,58,Joseph Dzierwa,P,Michigan State,4YR JR,Y,1497500
+2,59,J.D. Thompson,P,Vanderbilt,4YR JR,Y,1560200
+2,60,Alex Lodise,SS,Florida State,4YR JR,Y,1297500
+2,61,Michael Lombardi,P,Tulane,4YR JR,Y,1297500
+2,62,Malachi Witherspoon,P,Oklahoma,4YR JR,Y,1448700
+2,63,Cade Obermueller,P,Iowa,4YR JR,Y,1197500
+2,64,Dean Curley,SS,Tennessee,4YR SO,Y,1733905
+2,65,Cam Leiter,P,Florida State,4YR JR,Y,1346600
+CB-B,66,Aaron Walton,OF,Arizona,4YR JR,Y,1100000
+CB-B,69,JT Quinn,P,Georgia,4YR JR,Y,1147500
+CB-B,70,Will Hynes,P,Lorne Park SS,HS SR,Y,950000
+CB-B,71,Justin Lamkin,P,Texas A&M,4YR JR,Y,1161200
+CB-B,72,Tanner Franklin,P,Tennessee,4YR JR,Y,1145900
+CB-B,73,Murf Gray,3B,Fresno State,4YR JR,Y,997500
+CB-B,74,Max Belyeu,OF,Texas,4YR JR,Y,1111000
+SUP-2,67,Dean Moss,OF,IMG Academy,HS SR,Y,1285400
+SUP-2,68,Frank Cairone,P,Delsea Reg HS,HS SR,Y,1097500
+2C,75,Henry Godbout,SS,Virginia,4YR JR,Y,1093800
+3,76,Kyle Lodise,SS,Georgia Tech,4YR JR,Y,922500
+3,77,Ethan Hedges,3B,USC,4YR JR,Y,950000
+3,78,Max Williams,OF,Florida State,4YR JR,Y,897500
+3,79,Johnny Slawinski,P,Lyndon B. Johnson HS,HS SR,Y,2497500
+3,80,Landon Harmon,P,East Union Attendance Center HS,HS SR,Y,2500000
+3,81,Jake Cook,OF,Southern Mississippi,4YR JR,Y,922500
+3,82,Easton Carmichael,C,Oklahoma,4YR JR,Y,977000
+3,83,Mason Morris,P,Ole Miss,4YR JR,Y,897500
+3,84,Josh Owens,TWP,Providence Academy,HS SR,Y,1100000
+3,85,Trevor Cohen,OF,Rutgers,4YR JR,Y,847500
+3,86,Taitn Gray,C,Dallas Center-Grimes HS,HS SR,Y,920800
+3,87,Anthony Eyanson,P,LSU,4YR JR,Y,1750000
+3,88,James Ellwanger,P,Dallas Baptist,4YR SO,Y,1000000
+3,89,Jack Gurevitch,1B,University of San Diego,4YR SO,Y,879000
+3,90,Dominick Reid,P,Abilene Christian,4YR JR,Y,649125
+3,91,Griffin Hugus,P,Miami,4YR JR,Y,640000
+3,92,Brian Curley,P,Georgia,4YR JR,Y,700000
+3,93,RJ Austin,OF,Vanderbilt,4YR JR,Y,823900
+3,94,Jacob Morrison,P,Coastal Carolina,4YR JR,Y,697500
+3,95,Ethan Frey,OF,LSU,4YR JR,Y,997500
+3,96,Cody Miller,SS,East Tennessee State,4YR JR,Y,297500
+3,97,Cameron Millar,P,Alhambra HS,HS SR,Y,1497500
+3,98,Ben Jacobs,P,Arizona State,4YR JR,Y,722500
+3,99,Ryan Wideman,OF,Western Kentucky,4YR JR,Y,650000
+3,100,Cody Bowker,P,Vanderbilt,4YR JR,Y,700000
+3,101,Nolan Schubart,OF,Oklahoma State,4YR JR,Y,730000
+3,102,Antonio Jimenez,SS,Central Florida,4YR SO,Y,564000
+3,103,Kaeden Kent,SS,Texas A&M,4YR JR,Y,744400
+3,104,Landyn Vidourek,OF,Cincinnati,4YR JR,Y,552750
+SUP-3,105,Nate Snead,P,Tennessee,4YR JR,Y,597500
+4,106,Landon Hodge,C,Crespi Carmelite HS,HS SR,Y,1097500
+4,107,Riley Kelly,P,University of California - Irvine,4YR JR,Y,700000
+4,108,Drew Faurot,SS,Florida State,4YR JR,Y,531225
+4,109,Jake Munroe,3B,Louisville,4YR JR,Y,597500
+4,110,Gavin Turley,OF,Oregon State,4YR JR,Y,600000
+4,111,Miguel Sime Jr.,P,Poly Prep Country Day School,HS SR,Y,2000000
+4,112,Micah Bucknam,P,Dallas Baptist,4YR JR,Y,678300
+4,113,Gustavo Melendez,SS,Colegio Nuestra Señora de la Merced,HS SR,Y,671800
+4,114,Mason Neville,OF,Oregon,4YR JR,Y,697500
+4,115,Mason McConnaughey,P,Nebraska,4YR JR,Y,495825
+4,116,Lorenzo Meola,SS,Stetson,4YR JR,Y,652200
+4,117,Dominic Fritton,P,NC State,4YR JR,Y,497500
+4,118,Mason White,SS,Arizona,4YR JR,Y,642200
+4,119,Jason Reitz,P,Oregon,4YR JR,Y,633200
+4,120,Cade Crossland,P,Oklahoma,4YR JR,Y,729500
+4,121,Kaleb Wing,P,Scotts Valley HS,HS SR,Y,1500000
+4,122,Mason Peters,P,Dallas Baptist,4YR JR,Y,550000
+4,123,Dean Livingston,P,Hebron Christian Academy,HS SR,Y,1000000
+4,124,Colin Yeaman,SS,University of California - Irvine,4YR JR,Y,602800
+4,125,Joshua Flores,P,Lake Central HS,HS SR,Y,722500
+4,126,Nick Monistere,IF,Southern Mississippi,4YR JR,Y,397500
+4,127,Briggs McKenzie,P,Corinth Holders HS,HS SR,Y,2997500
+4,128,Nolan Sailors,OF,Creighton,4YR SR,Y,147500
+4,129,Caleb Leys,P,University of Maine,4YR SR,Y,574900
+4,130,Michael Salina,P,St. Bonaventure,4YR JR,Y,571500
+4,131,Sean Youngerman,P,Oklahoma State,4YR JR,Y,564500
+4,132,Luke Hill,3B,Ole Miss,4YR JR,Y,722600
+4,133,Peter Kussow,P,Arrowhead Union HS,HS SR,Y,897500
+4,134,Pico Kohn,P,Mississippi State,4YR SR,Y,547800
+4,135,Aidan West,SS,Long Reach HS,HS SR,Y,1272500
+4C,136,Dixon Williams,2B,East Carolina,4YR JR,Y,497500
+5,137,Gabe Davis,P,Oklahoma State,4YR JR,Y,587500
+5,138,Cameron Nelson,OF,Wake Forest,4YR SO,Y,600000
+5,139,Chris Arroyo,1B,Virginia,4YR JR,Y,521400
+5,140,CJ Gray,P,A.L. Brown HS,HS SR,Y,1247500
+5,141,Zane Taylor,P,UNC Wilmington,4YR SR,Y,513900
+5,142,Coy James,SS,Davie HS,HS SR,Y,2500000
+5,143,Tim Piasentin,3B,Foothills Composite HS,HS SR,Y,747500
+5,144,Adonys Guzman,C,Arizona,4YR JR,Y,496500
+5,145,Eli Pitts,OF,North Atlanta HS,HS SR,Y,572500
+5,146,Ben Abeldt,P,TCU,4YR JR,Y,450000
+5,147,James Quinn-Irons,OF,George Mason,4YR JR,Y,481900
+5,148,Christian Foutch,P,Arkansas,4YR JR,Y,400000
+5,149,Matt Barr,P,SUNY Niagara CC,JC J1,Y,762500
+5,150,Ethan Young,P,East Carolina,4YR JR,Y,630000
+5,151,Kade Snell,OF,Alabama,4YR GR,Y,200000
+5,152,Korbyn Dickerson,OF,Indiana,4YR JR,Y,461100
+5,153,Nathan Hall,OF,South Carolina,4YR JR,Y,456400
+5,154,Jaiden Lo Re,SS,Corona Del Sol HS,HS SR,Y,562500
+5,155,Sean Episcope,P,Princeton,4YR SO,Y,335500
+5,156,Nick Potter,P,Wichita State,4YR JR,Y,336600
+5,157,Conor Essenburg,OF,Lincoln-Way West HS,HS SR,Y,1197500
+5,158,Aiden Jimenez,P,Arkansas,4YR JR,Y,431900
+5,159,Ryan Hall,P,North Gwinnett HS,HS SR,Y,997500
+5,160,Ty Harvey,C,Inspiration Academy,HS SR,Y,1500000
+5,161,Gabe Craig,P,Baylor,4YR GR,Y,197500
+5,162,Riley Nelson,1B,Vanderbilt,4YR JR,Y,350000
+5,163,Peyton Prescott,P,Florida State,4YR SO,Y,197500
+5,164,Core Jackson,SS,Utah,4YR SR,Y,147500
+5,165,Davion Hickson,P,Rice,4YR JR,Y,404800
+6,166,Colby Shelton,SS,Florida,4YR JR,Y,447500
+6,167,Matt Klein,C,Louisville,4YR JR,Y,425000
+6,168,Joey Volini,P,Florida State,4YR SR,Y,297750
+6,169,Luke LaCourse,P,Bay City Western HS,HS SR,Y,512500
+6,170,Grant Richardson,P,Grand Canyon University,4YR JR,Y,400000
+6,171,Boston Smith,C,Wright State,4YR SR,Y,50000
+6,172,Eric Snow,SS,Auburn,4YR JR,Y,381100
+6,173,Jack Anker,P,Fresno State,4YR JR,Y,347500
+6,174,Braden Osbolt,P,Kennesaw State,4YR JR,Y,297500
+6,175,Jack Wheeler,3B,Morris HS,HS SR,Y,525000
+6,176,Jordan Gottesman,P,Northeastern,4YR 5S,Y,197500
+6,177,Aidan Haugh,P,North Carolina,4YR SR,Y,157500
+6,178,Leighton Finley,P,Georgia,4YR JR,Y,364800
+6,179,Bruin Agbayani,SS,Saint Louis School,HS SR,Y,380600
+6,180,Matthew Miura,OF,Hawaii,4YR JR,Y,358700
+6,181,Josiah Hartshorn,OF,Orange Lutheran HS,HS SR,Y,2000000
+6,182,Lucas Kelly,P,Arizona State,4YR JR,Y,325000
+6,183,Sawyer Hawks,P,Vanderbilt,4YR SR,Y,250000
+6,184,Caden Hunter,P,USC,4YR JR,Y,344600
+6,185,Daniel Dickinson,SS,LSU,4YR JR,Y,325000
+6,186,Gabel Pentecost,P,Taylor University,4YR JR,Y,297500
+6,187,Landon Beidelschies,P,Arkansas,4YR JR,Y,297500
+6,188,Tyriq Kemp,SS,Baylor,4YR SR,Y,147500
+6,189,Grayson Grinsell,P,Oregon,4YR JR,Y,297500
+6,190,Jaxon Dalena,P,Shippensburg University,4YR 5S,Y,10000
+6,191,James Tallon,P,Duke,4YR JR,Y,325300
+6,192,Nelson Keljo,P,Oregon State,4YR JR,Y,325100
+6,193,Nathan Hall,P,University of Central Missouri,4YR JR,Y,297500
+6,194,Rory Fox,P,Notre Dame,4YR JR,Y,411100
+6,195,Mason Ligenza,OF,Tamaqua Area HS,HS SR,N,
+7,196,Anthony DePino,3B,University of Rhode Island,4YR SR,Y,147500
+7,197,Antoine Jean,P,Houston,4YR GR,Y,200000
+7,198,Jake Clemente,P,Florida,4YR JR,Y,500000
+7,199,Lucas Mahlstedt,P,Clemson,4YR SR,Y,47500
+7,200,Logan Sauve,C,West Virginia,4YR JR,Y,304200
+7,201,Julian Tonghini,P,Arizona,4YR SR,Y,10000
+7,202,Dylan Watts,P,Auburn,4YR JR,Y,197500
+7,203,Brent Iredale,3B,Arkansas,4YR JR,Y,294900
+7,204,Justin Henschel,P,Florida Gulf Coast University,4YR JR,Y,222500
+7,205,Paxton Kling,OF,Penn State,4YR JR,Y,375000
+7,206,Cam Maldonado,OF,Northeastern,4YR JR,Y,287400
+7,207,Jacob Kuhn,P,Midland College,JC J1,Y,262500
+7,208,Myles Patton,P,Texas A&M,4YR JR,Y,285200
+7,209,Jacob McCombs,OF,University of California - Irvine,4YR SO,Y,280400
+7,210,Payton Graham,P,Gonzaga,4YR JR,Y,280800
+7,211,Pierce Coppola,P,Florida,4YR SR,Y,278500
+7,212,Colton Shaw,P,Yale,4YR SR,Y,100000
+7,213,Joe Ariola,P,Wake Forest,4YR JR,Y,250000
+7,214,Hunter Allen,P,Ashland University,4YR SR,Y,147500
+7,215,Josiah Ragsdale,OF,Boston College,4YR JR,Y,237500
+7,216,Jase Mitchell,C,Cape Henlopen HS,HS SR,Y,797500
+7,217,Zach Royse,P,UTSA,4YR JR,Y,197500
+7,218,Bryson Dudley,P,Texas State,4YR JR,Y,261000
+7,219,Cale Wetwiska,P,Northern Oklahoma College-Enid,JC J2,Y,647500
+7,220,Kerrington Cross,3B,Cincinnati,4YR 5S,Y,20000
+7,221,Matthew Fisher,P,Memorial HS,HS SR,Y,1250000
+7,222,Will McCausland,P,Ole Miss,4YR JR,Y,235000
+7,223,Cam Tilly,P,Auburn,4YR SO,Y,397500
+7,224,Richie Bonomolo Jr.,OF,Alabama,4YR JR,Y,222500
+7,225,Mason Estrada,P,MIT,4YR SO,Y,447500
+8,226,Blaine Wynk,P,Ohio State,4YR JR,Y,246200
+8,227,Tanner Thach,1B,UNC Wilmington,4YR JR,Y,325000
+8,228,Emilio Barreras,SS,Grand Canyon University,4YR JR,Y,122500
+8,229,Isaiah Jackson,OF,Arizona State,4YR JR,Y,297500
+8,230,Corey Braun,P,South Florida,4YR SR,Y,200000
+8,231,Riley Maddox,P,Ole Miss,4YR SR,Y,10000
+8,232,Danny Thompson Jr.,P,UNC Greensboro,4YR 5S,Y,5000
+8,233,Josh Tate,OF,Georgia Southern,4YR JR,Y,234300
+8,234,Kyle McCoy,P,Maryland,4YR JR,Y,232700
+8,235,Evan Siary,P,Mississippi State,4YR JR,Y,300000
+8,236,Ben Bybee,P,Arkansas,4YR JR,Y,229500
+8,237,Aidan Cremarosa,P,Fresno State,4YR JR,Y,182500
+8,238,Dylan Brown,P,Old Dominion,4YR JR,Y,229000
+8,239,Ryan Sprock,3B,Elon University,4YR JR,Y,225300
+8,240,Ryan Weingartner,SS,Penn State,4YR JR,Y,226500
+8,241,Jake Knapp,P,North Carolina,4YR GR,Y,175000
+8,242,Danny Macchiarola,P,Holy Cross,4YR JR,Y,175000
+8,243,Jack Martinez,P,Arizona State,4YR SR,Y,167326
+8,244,Kailen Hamson,P,University of the Cumberlands,4YR SR,Y,97500
+8,245,Hayden Vucinovich,P,Bloomington Jefferson HS,HS SR,Y,150000
+8,246,Kyle Walker,2B,Arizona State,4YR JR,Y,152500
+8,247,Carter Lovasz,P,William & Mary,4YR SR,Y,7500
+8,248,Brooks Bryan,C,Troy University,4YR JR,Y,197500
+8,249,Nick Dumesnil,OF,California Baptist University,4YR JR,Y,214300
+8,250,Jamie Hitt,P,Oklahoma,4YR 5S,Y,10000
+8,251,Brian Walters,P,Miami,4YR SR,Y,309400
+8,252,Anthony Martinez,1B,University of California - Irvine,4YR JR,Y,214200
+8,253,Camden Lohman,P,Ft. Zumwalt North HS,HS SR,Y,797500
+8,254,Mac Heuer,P,Texas Tech,4YR SO,Y,400000
+8,255,Jack O'Connor,P,Virginia,4YR JR,Y,158775
+9,256,Riley Eikhoff,P,Coastal Carolina,4YR GR,Y,7500
+9,257,Zach Rogacki,C,SUNY Binghamton,4YR SR,Y,50000
+9,258,Kaiden Wilson,P,Texas A&M,4YR SO,Y,697500
+9,259,Slate Alford,3B,Georgia,4YR SR,Y,17500
+9,260,Daniel Bucciero,3B,Fordham,4YR JR,Y,208100
+9,261,Wyatt Henseler,3B,Texas A&M,4YR 5S,Y,10000
+9,262,Karson Ligon,P,Mississippi State,4YR SR,Y,125000
+9,263,Jared Jones,1B,LSU,4YR JR,Y,203600
+9,264,Kien Vu,OF,Arizona State,4YR JR,Y,172500
+9,265,Owen Proksch,P,Duke,4YR JR,Y,200000
+9,266,Reid Worley,P,Cherokee HS,HS SR,Y,747500
+9,267,Mason Nichols,P,Ole Miss,4YR SR,Y,37500
+9,268,Jacob Mayers,P,LSU,4YR JR,Y,190000
+9,269,Justin Mitrovich,P,Elon University,4YR JR,Y,172500
+9,270,Michael Dattalo,3B,Dallas Baptist,4YR JR,Y,202200
+9,271,Colton Book,P,Saint Joseph's,4YR JR,Y,100000
+9,272,Jackson Steensma,P,Appalachian State,4YR JR,Y,201300
+9,273,Wallace Clark,SS,Duke,4YR SR,Y,25000
+9,274,Cam Lee,OF,Mineral Area JC,JC J1,Y,197540
+9,275,Andrew Healy,P,Duke,4YR JR,Y,147500
+9,276,Kellan Oakes,P,Oregon State,4YR JR,Y,247500
+9,277,Logan Braunschweig,OF,UAB,4YR SR,Y,2500
+9,278,Shane Van Dam,P,NC State,4YR JR,Y,196100
+9,279,Trevor Heishman,P,St. John Bosco HS,HS SR,Y,347500
+9,280,Will Koger,P,Arizona State,4YR SR,Y,5000
+9,281,Matthew Ferrara,SS,Toms River HS East,HS SR,Y,597500
+9,282,Ryan Prager,P,Texas A&M,4YR SR,Y,197200
+9,283,Anthony Frobose,SS,Lakeland HS,HS SR,Y,387500
+9,284,Blake Gillespie,P,UNC Charlotte,4YR JR,Y,187300
+9,285,Conner O'Neal,C,Southeastern Louisiana U,4YR SR,Y,2500
+10,286,Daniel Wright,P,Iowa,4YR GR,Y,7500
+10,287,Austin Newton,P,South Florida,4YR JR,Y,195100
+10,288,Jake McCutcheon,2B,Missouri State,4YR JR,Y,192200
+10,289,Nick Rodriguez,2B,Missouri State,4YR SR,Y,47500
+10,290,Samuel Dutton,P,Auburn,4YR SR,Y,150000
+10,291,Hunter Hines,1B,Mississippi State,4YR SR,Y,5000
+10,292,Austin Smith,OF,University of San Diego,4YR SR,Y,5000
+10,293,Matt King,SS,Arizona State,4YR SR,Y,22500
+10,294,Ty Doucette,1B,Rutgers,4YR SO,Y,157500
+10,295,J.D. McReynolds,P,University of Central Missouri,4YR SR,Y,25000
+10,296,Isaiah Barkett,2B,Stetson,4YR JR,Y,172500
+10,297,Trendan Parish,P,Texas Tech,4YR SR,Y,500
+10,298,Maximus Martin,SS,Kansas State,4YR JR,Y,191300
+10,299,Shai Robinson,SS,Illinois State,4YR JR,Y,147500
+10,300,Tyler Van Dyke,P,Stetson,4YR SR,Y,150000
+10,301,Justin Stransky,C,Fresno State,4YR SR,Y,140000
+10,302,Isaac Lyon,P,Grand Canyon University,4YR JR,Y,190100
+10,303,Brady Counsell,SS,Kansas,4YR SR,Y,50000
+10,304,Dalton Neuschwander,P,University of West Florida,4YR 5S,Y,27500
+10,305,Braylon Owens,P,UTSA,4YR SR,Y,10000
+10,306,Zach Daudet,SS,Cal Poly San Luis Obispo,4YR SR,Y,7500
+10,307,Kade Woods,P,LSU,4YR SR,Y,2500
+10,308,Max Martin,P,University of California - Irvine,4YR JR,Y,185800
+10,309,Edian Espinal,C,Central Florida,4YR JR,Y,185300
+10,310,Justin DeCriscio,SS,NC State,4YR SR,Y,15000
+10,311,Cole Gilley,P,Indiana,4YR GR,Y,7500
+10,312,Harrison Bodendorf,P,Oklahoma State,4YR JR,Y,150000
+10,313,Tyler McLoughlin,P,Georgia,4YR 5S,Y,7500
+10,314,Connor McGinnis,2B,Houston,4YR JR,Y,172500
+10,315,Jacob Frost,P,Kansas State,4YR SR,Y,47500
+11,316,Matthew Boughton,SS,Covenant HS,HS SR,Y,197500
+11,317,Zach Harris,P,Georgia,4YR JR,Y,200000
+11,318,Jadon Williamson,P,Lewis-Clark State College,4YR 5S,Y,100000
+11,319,Alton Davis II,P,Georgia,4YR JR,Y,397500
+11,320,Bobby Boser,SS,Florida,4YR SR,Y,150000
+11,321,Jack Moroknek,OF,Butler,4YR SR,Y,200000
+11,322,Jared Spencer,P,Texas,4YR SR,Y,165000
+11,323,Dylan Palmer,2B,Hofstra,4YR JR,Y,150000
+11,324,Jake Brink,P,College of Charleston,4YR JR,Y,150000
+11,325,Jacob Johnson,P,Pearl River CC,JC J1,Y,300000
+11,326,Rod Barajas Jr.,C,Saddleback College,JC J3,Y,247500
+11,327,Luke Jackson,P,Texas A&M,4YR JR,Y,497500
+11,328,Barrett Morgan,P,Cowley County CC,JC J2,Y,500000
+11,329,Ryan Daniels,2B,Connecticut,4YR JR,Y,150000
+11,330,Jalin Flores,SS,Texas,4YR JR,Y,175000
+11,331,Eli Jerzembeck,P,South Carolina,4YR JR,Y,150000
+11,332,Dusty Revis,P,Western Carolina,4YR SR,Y,150000
+11,333,Luke Dotson,P,Mississippi State,4YR SO,Y,500000
+11,334,Holden deJong,P,New Jersey Institute of Technology,4YR JR,Y,150000
+11,335,CJ Hughes,SS,Junipero Serra HS,HS SR,Y,700000
+11,336,Justin Thomas,OF,Arkansas,4YR JR,Y,177500
+11,337,Colin Daniel,P,U Alabama Birmingham,4YR JR,Y,150000
+11,338,Hunter Alberini,P,Arizona,4YR JR,Y,150000
+11,339,River Hamilton,P,Sam Barlow HS,HS SR,Y,497500
+11,340,Truitt Madonna,C,Ballard HS,HS SR,Y,654000
+11,341,Will Vierling,C,Murray State University,4YR JR,Y,150000
+11,342,Tyler Howard,C,University of Portland,4YR JR,Y,150000
+11,343,Wyatt Vincent,OF,Nixa HS,HS SR,Y,272500
+11,344,Ben Grable,P,Indiana,4YR 5S,Y,150000
+11,345,Dylan Tate,P,Oklahoma,4YR JR,Y,251500
+12,346,Ely Brown,OF,Mercer U,4YR JR,Y,172500
+12,347,Brady Parker,P,Houston-Victoria,4YR JR,Y,150000
+12,348,Wilson Weber,C,Oregon State,4YR SR,Y,100000
+12,349,Talon Haley,P,Lewisburg HS,HS SR,Y,897500
+12,350,Alex Barr,P,Kankakee Valley HS,HS SR,Y,350000
+12,351,Ben Moore,P,Old Dominion,4YR JR,Y,150000
+12,352,Blaine Bullard,OF,Klein Cain HS,HS SR,Y,1697500
+12,353,Cameron Keshock,P,Samford University,4YR JR,Y,150000
+12,354,Carson Latimer,P,Sacramento State,4YR JR,Y,150000
+12,355,Jake Barbee,P,Jay M Robinson HS,HS SR,Y,300000
+12,356,Cody Delvecchio,P,UCLA,4YR JR,Y,150000
+12,357,Brady Jones,P,Georgia Tech,4YR JR,Y,150000
+12,358,Ethan Walker,P,Kentucky,4YR JR,Y,150000
+12,359,Kolten Smith,P,Georgia,4YR JR,Y,200000
+12,360,Kaden Echeman,P,Northern Kentucky,4YR SR,Y,175000
+12,361,Connor Spencer,P,Ole Miss,4YR GR,Y,100000
+12,362,Grant Jay,C,Dallas Baptist,4YR JR,Y,150000
+12,363,Tayler Montiel,P,Tulane,4YR SR,Y,100000
+12,364,Daniel Lopez,P,Odessa College,JC J1,N,
+12,365,Cooper Underwood,P,Allatoona HS,HS SR,N,
+12,366,Elijah Farley,OF,Navarro HS,HS SR,Y,150000
+12,367,Jay Woolfolk,P,Virginia,4YR SR,Y,150000
+12,368,Matthew Hoskins,P,Georgia,4YR JR,Y,150000
+12,369,Cash Kuiper,P,Murray State College,JC J2,Y,150000
+12,370,George Bilecki,OF,Lewis U,4YR JR,Y,150000
+12,371,Tyler Bowen,P,Lander University,4YR SR,Y,150000
+12,372,Ryan DeSanto,P,Penn State,4YR JR,Y,150000
+12,373,Truman Pauley,P,Harvard,4YR SO,Y,400000
+12,374,Camden Troyer,OF,Liberty University,4YR SR,Y,150000
+12,375,Logan Lunceford,P,Wake Forest,4YR JR,Y,150000
+13,376,Rylan Galvan,C,Texas,4YR JR,Y,150000
+13,377,Izeah Muniz,P,Mt. San Antonio College,JC J2,Y,150000
+13,378,Chase Renner,P,Penn State,4YR SR,Y,150000
+13,379,Xavier Mitchell,P,Prestonwood Christian Academy,HS SR,Y,872500
+13,380,Bryan Arendt,C,UNC Wilmington,4YR SR,Y,100000
+13,381,Tucker Biven,P,Louisville,4YR JR,Y,150000
+13,382,Trace Baker,P,UNC Wilmington,4YR JR,Y,150000
+13,383,Dylan Mathiesen,P,Liberty University,4YR JR,Y,150000
+13,384,Brady Afthim,P,Connecticut,4YR SR,Y,150000
+13,385,Aiden Robertson,P,Walters State CC,JC J2,N,
+13,386,Broedy Poppell,C,Florida A&M,4YR SR,Y,50000
+13,387,Ethan Storm,P,Rock Valley College,JC J3,Y,150000
+13,388,Jack Winnay,3B,Wake Forest,4YR JR,Y,150000
+13,389,Callan Fang,P,Harvard,4YR JR,Y,177500
+13,390,Jake Shelagowski,P,Saginaw Valley State,4YR JR,Y,150000
+13,391,Nate Williams,P,Mississippi State,4YR SR,Y,150000
+13,392,Aiden Taurek,OF,Saint Mary's,NS,Y,150000
+13,393,Alex Galvan,P,Central Florida,4YR 5S,Y,100000
+13,394,Brayden Smith,2B,Oklahoma State,4YR JR,Y,150000
+13,395,Gavin Lauridsen,P,Foothill HS,HS SR,N,
+13,396,Aubrey Smith,P,UNC Wilmington,4YR JR,Y,150000
+13,397,Logan Forsythe,P,Louisiana Tech,4YR JR,Y,150000
+13,398,Tyson Moran,SS,No School,NS,Y,247500
+13,399,Jack Goodman,SS,Northeastern,4YR JR,Y,150000
+13,400,Dylan Grego,SS,Ball State,4YR JR,Y,150000
+13,401,Jack Barker,OF,Col of Southern Idaho,JC J2,Y,150000
+13,402,Aaron Savary,P,Iowa,4YR JR,Y,150000
+13,403,Frank Camarillo,P,UC Santa Barbara,4YR JR,Y,150000
+13,404,Kyle West,1B,West Virginia,4YR SR,Y,150000
+13,405,Robby Porco,P,West Virginia,4YR JR,Y,147500
+14,406,Max Banks,P,Washington,4YR SR,Y,150000
+14,407,Luke Broderick,P,Nebraska,4YR JR,Y,165000
+14,408,Carson Laws,P,Texas State,4YR JR,Y,150000
+14,409,TJ Ford,OF,Trinity Christian School,HS SR,Y,272500
+14,410,Griffin Kirn,P,West Virginia,4YR 5S,Y,150000
+14,411,Nick Hollifield,C,UAB,4YR JR,Y,150000
+14,412,Noah Palmese,P,Webber International University,4YR SR,Y,150000
+14,413,Connor Hamilton,P,Montgomery Bell Academy,HS SR,N,
+14,414,Bryce Archie,P,South Florida,4YR JR,Y,150000
+14,415,Landon Manzi,P,Killingly HS,HS SR,N,
+14,416,Trey Seeley,P,Hope International University,4YR SR,Y,25000
+14,417,Jacob Hartlaub,P,Ball State,4YR SR,Y,150000
+14,418,Carter Rasmussen,P,Wofford,4YR JR,Y,150000
+14,419,Merit Jones,P,Utah,4YR JR,Y,150000
+14,420,Anthony Watts,P,Iowa,4YR JR,Y,150000
+14,421,Kaemyn Franklin,P,Victory Christian,HS SR,Y,200000
+14,422,Luke Heyman,C,Florida,4YR JR,Y,230000
+14,423,Blake Fields,OF,The First Academy,HS SR,N,
+14,424,Brayan Orrantia,P,New Mexico JC,JC J2,Y,151000
+14,425,Brendan Brock,C,Southwestern Illinois College,JC J3,N,
+14,426,Josh Wakefield,OF,Grand Canyon University,4YR JR,Y,150000
+14,427,Mathieu Curtis,P,Virginia Tech,4YR JR,Y,150000
+14,428,JC Vanek,1B,Chipola College,JC J1,Y,347500
+14,429,Beau Ankeney,1B,Loyola Marymount University,4YR SR,Y,150000
+14,430,Clay Edmondson,P,UNC Asheville,4YR SR,Y,100000
+14,431,Jonathan Gonzalez,P,Stetson,4YR GR,Y,50000
+14,432,Anthony Silva,SS,TCU,4YR JR,Y,150000
+14,433,James Smith IV,P,University of Memphis,4YR JR,N,
+14,434,Brennan Stuprich,P,Southeastern Louisiana University,4YR GR,Y,150000
+14,435,Davis Chastain,P,U Georgia,4YR JR,Y,147500
+15,436,Caedmon Parker,P,TCU,4YR JR,Y,150000
+15,437,Dylan Crooks,P,Oklahoma,4YR SR,Y,175000
+15,438,Josh Hogue,3B,NC State,4YR JR,Y,150000
+15,439,Mikey Cascino,P,A3 Academy,HS SR,Y,165000
+15,440,Diego Rosa,C,International Baseball Academy,HS SR,Y,125000
+15,441,Jacob Walsh,1B,Oregon,4YR SR,Y,150000
+15,442,Jake Casey,OF,Kent State,4YR SR,Y,150000
+15,443,McLane Moody,P,Northside Senior HS,HS SR,Y,460600
+15,444,Andrew Shaffner,P,NC State,4YR JR,Y,240000
+15,445,Luke Hanson,SS,Virginia,4YR JR,Y,150000
+15,446,Damian Bravo,OF,Texas Tech,4YR JR,Y,150000
+15,447,Alex Wallace,P,McLennan CC,JC J2,Y,150000
+15,448,Skylar King,OF,West Virginia,4YR JR,Y,150000
+15,449,Reed Moring,P,UC Santa Barbara,4YR JR,Y,100000
+15,450,Trevor Haskins,SS,Stanford,4YR SR,Y,100000
+15,451,Noah Edders,P,Troy University,4YR SR,Y,100000
+15,452,Brayden Corn,OF,Western Carolina U,4YR JR,Y,150000
+15,453,Hayden Murphy,P,Auburn,4YR JR,Y,150000
+15,454,KK Clark,P,Pearl River CC,JC J2,Y,150000
+15,455,Dominic Cadiz,3B,Notre Dame HS,HS SR,N,
+15,456,DJ Newman,TWP,Bowling Green,4YR JR,Y,202500
+15,457,Dallas Macias,OF,Oregon State,4YR JR,Y,150000
+15,458,Connor Rasmussen,SS,Tulane,4YR JR,Y,150000
+15,459,Charlie Christensen,P,U Central Arkansas,4YR JR,Y,150000
+15,460,Ryan Reed,P,Pittsburgh,4YR JR,Y,150000
+15,461,Jacob Pruitt,P,Mississippi State,4YR JR,Y,150000
+15,462,Evan Chrest,P,Florida State,4YR JR,Y,150000
+15,463,Conner Ware,P,LSU,4YR JR,Y,150000
+15,464,Jack Cebert,P,Texas Tech,4YR SR,Y,150000
+15,465,Matt Lanzendorfer,P,Virginia,4YR GR,Y,147500
+16,466,Kaleb Freeman,C,Georgia State,4YR SR,Y,150000
+16,467,Seth Clausen,P,Minnesota,4YR SR,Y,50000
+16,468,RJ Shunck,P,Toledo,4YR JR,Y,100000
+16,469,Gage Harrelson,OF,Florida State,4YR JR,Y,150000
+16,470,Jackson Phipps,P,Jacksonville State,4YR 5S,Y,100000
+16,471,Levi Huesman,P,Vanderbilt,4YR JR,Y,150000
+16,472,Jaxson West,C,Florida State,4YR JR,Y,150000
+16,473,Eddie King Jr.,OF,Louisville,4YR SR,Y,125000
+16,474,Maison Martinez,P,Florida State,4YR JR,Y,147500
+16,475,Jaxon Grossman,P,Salt Lake CC,JC J2,N,
+16,476,Garrett Langrell,P,Creighton U,4YR GR,Y,50000
+16,477,Riley Stanford,OF,Georgia Tech,4YR JR,Y,150000
+16,478,Jason Gilman,P,Kean University,4YR GR,Y,150000
+16,479,Jonathan Stevens,P,U Alabama,4YR SO,Y,172400
+16,480,Alex Breckheimer,P,Kansas,4YR JR,Y,200000
+16,481,Riely Hunsaker,P,Lamar,4YR SR,Y,45000
+16,482,Casey Hintz,P,Arizona,4YR JR,Y,150000
+16,483,Collin Rothermel,P,Jacksonville University,4YR SR,Y,100000
+16,484,Denton Biller,P,Johnson County CC,JC J1,Y,151000
+16,485,Parker Coil,P,Arkansas,4YR JR,N,
+16,486,Chase Call,OF,University of California - Irvine,4YR SR,Y,20000
+16,487,Nico Wagner,P,West Valley College,JC J2,Y,150000
+16,488,Randy Ramnarace,P,University of New Haven,4YR JR,Y,150000
+16,489,Joe Ruzicka,P,Belmont University,4YR SR,Y,150000
+16,490,Cardell Thibodeaux,OF,Southern,4YR JR,Y,150000
+16,491,Logan Dawson,SS,Eastern HS,HS SR,Y,242500
+16,492,Luke Fernandez,P,Wallace State CC,JC J3,Y,100000
+16,493,Zack Mack,P,Loyola Marymount University,4YR SR,Y,150000
+16,494,Jackson Lovich,SS,Missouri,4YR JR,Y,150000
+16,495,AJ Soldra,OF,Seton Hall,4YR SO,Y,147500
+17,496,Derek Cerda,OF,Kansas,4YR JR,Y,150000
+17,497,Derrick Smith,P,NC State,4YR JR,Y,100000
+17,498,Xavier Cardenas III,P,San Diego State,4YR JR,Y,100000
+17,499,Cole Raymond,P,Avon Old Farms School,HS SR,Y,150000
+17,500,Jared Davis,SS,Virginia Tech,4YR JR,Y,100000
+17,501,Bryce Molinaro,3B,Penn State,4YR JR,N,
+17,502,Jordan Rich,OF,American Heritage School,HS SR,Y,150000
+17,503,Carter Gwost,OF,Little Falls HS,HS SR,Y,497500
+17,504,Dylan King,C,Central Florida,4YR SR,Y,150000
+17,505,Noah Franklin,C,TNXL Academy,HS SR,Y,275000
+17,506,Luke Mensik,P,Lincoln-Way Central HS,HS SR,Y,482500
+17,507,Brody Donay,C,Florida,4YR JR,Y,150000
+17,508,Patrick Galle,P,Ole Miss,4YR SO,Y,150000
+17,509,JP Smith II,3B,Sacramento State,4YR JR,Y,75000
+17,510,Cameron Nickens,OF,Austin Peay,4YR SR,Y,50000
+17,511,Logan Poteet,C,UNC Charlotte,4YR JR,Y,180000
+17,512,Anthony Karoly,P,Nova Southeastern,4YR JR,Y,50000
+17,513,Joel Sarver,P,UNC Charlotte,4YR 5S,Y,75000
+17,514,Braeden Sloan,P,TCU,4YR JR,Y,150000
+17,515,Luke Roupe,P,Grace Christian School,HS SR,Y,225000
+17,516,Grayson Saunier,P,Texas,4YR JR,Y,150000
+17,517,Brody Fowler,P,North Greenville U,4YR JR,Y,150000
+17,518,Luke Nowak,OF,University of Illinois at Chicago,4YR SR,Y,100000
+17,519,Joey Wimpelberg,P,College of Central Florida,JC J2,Y,197500
+17,520,Tyler Schmitt,P,Illinois,4YR JR,Y,150000
+17,521,Richie Cortese,P,Lander University,4YR SR,Y,150000
+17,522,Cannon Peebles,C,Tennessee,4YR JR,Y,150000
+17,523,Sam Robertson,SS,Northwest Shoals CC,JC J2,Y,150000
+17,524,Ryan Osinski,P,Virginia,4YR JR,Y,150000
+17,525,Sam Horn,P,Missouri,4YR JR,Y,497500
+18,526,Landen Payne,P,Southern Mississippi,4YR SR,Y,150000
+18,527,Tyrelle Chadwick,P,Illinois State,4YR JR,Y,125000
+18,528,Hayden Cuthbertson,P,Miami (OH),4YR JR,Y,100000
+18,529,Angelo Smith,P,Central Florida,4YR JR,Y,150000
+18,530,Jay Dill,P,Troy University,4YR SR,Y,100000
+18,531,Owen Puk,P,Florida International,4YR SR,Y,150000
+18,532,Will Cresswell,C,Washington State,4YR SR,Y,100000
+18,533,Canon Reeder,OF,Oregon State,4YR JR,Y,150000
+18,534,Ethan Moore,SS,Oak Park and River Forest HS,HS SR,N,
+18,535,Julius Sanchez,P,Illinois,4YR JR,Y,150000
+18,536,Cooper McGrath,P,Northeastern,4YR GR,Y,10000
+18,537,Brayden Jones,P,Ole Miss,4YR GR,Y,75000
+18,538,Cade Fisher,P,Auburn,4YR JR,Y,150000
+18,539,Matthew Dalquist,P,UC San Diego,4YR SR,Y,150000
+18,540,Dylan Driessen,P,South Dakota State,4YR JR,Y,125000
+18,541,Connor Knox,P,George Mason,4YR JR,Y,140000
+18,542,Griffin Stieg,P,Virginia Tech,4YR JR,N,
+18,543,Raul Garayzar,P,Arizona,4YR SR,Y,100000
+18,544,Cole Johnson,OF,Oconee County HS,HS SR,N,
+18,545,Rylan Mills,C,Oran HS,HS SR,Y,247500
+18,546,Landon Arroyos,SS,Grayson HS,HS SR,Y,252500
+18,547,Aiven Cabral,P,Northeastern,4YR JR,Y,100000
+18,548,Grayson Boles,P,St. Augustine HS,HS SR,Y,500000
+18,549,Ethan Rogers,P,Lone Jack HS,HS SR,N,
+18,550,Landry Jurecka,P,Queens University of Charlotte,4YR SR,Y,75000
+18,551,Matthew Potok,P,Coastal Carolina,4YR SR,Y,150000
+18,552,Zane Petty,P,Texas Tech,4YR JR,Y,100000
+18,553,Dillon Stiltner,P,Trinity Christian School,HS SR,Y,222690
+18,554,Justin West,P,Louisville,4YR JR,Y,150000
+18,555,Finn Edwards,P,Iowa Western CC,JC J1,N,
+19,556,Nick Weyrich,P,Marshall,4YR SR,Y,10000
+19,557,Easton Marks,P,Florida International,4YR JR,Y,150000
+19,558,Peyton Fosher,P,Nevada,4YR SR,Y,100000
+19,559,Ivan Tatis,SS,Georgia Premier Academy,HS SR,Y,100000
+19,560,Itsuki Takemoto,P,Hawaii,4YR SO,Y,125000
+19,561,Mason Pike,P,Puyallup HS,HS SR,N,
+19,562,Luke Kovach,P,Cal Poly,4YR SR,Y,150000
+19,563,Brandon Cain,P,Oklahoma,4YR JR,Y,100000
+19,564,Myles Upchurch,P,St. Albans HS,HS SR,N,
+19,565,Cory Geinzer,P,Col of Central Florida,JC J1,Y,225000
+19,566,Braydon Risley,P,Grayson College,JC J2,Y,100000
+19,567,Blake Morgan,P,Old Dominion,4YR SR,Y,50000
+19,568,Fabian Bonilla,OF,Christian Military Academy,HS SR,Y,150000
+19,569,Matthew Becker,P,South Carolina,4YR SR,Y,25000
+19,570,Liam Best,P,Appalachian State,4YR SR,Y,100000
+19,571,Caleb Barnett,3B,Mountain Brook HS,HS SR,N,
+19,572,Cam Appenzeller,P,Glenwood HS,HS SR,N,
+19,573,Jacob Parker,OF,Purvis HS,HS SR,N,
+19,574,Jimmy Anderson,SS,Heartland CC,JC J1,N,
+19,575,Chase Bentley,P,IMG Academy,HS SR,Y,757500
+19,576,Joey McLaughlin,OF,Harrah HS,HS SR,N,
+19,577,Ryan Heppner,P,U British Columbia,4YR JR,Y,100000
+19,578,Dylan Wood,P,Franklin HS,HS SR,N,
+19,579,Meridian Leffew,SS,Gaston Christian School,HS SR,Y,164500
+19,580,Jonathan Vastine,SS,Vanderbilt,4YR SR,Y,50000
+19,581,Robert Phelps,SS,Reinhardt University,4YR JR,Y,75000
+19,582,Derek Munoz,P,Miami Christian School,HS SR,Y,150000
+19,583,Joe Scarborough,P,Jacksonville State,4YR JR,Y,150000
+19,584,Hayden Morris,P,Blinn College,JC J1,N,
+19,585,Anson Aroz,C,Oregon,4YR SR,Y,147500
+20,586,Andrew Sentlinger,P,Virginia Tech,4YR JR,Y,150000
+20,587,Ethan Cole,P,Augustana U,4YR JR,Y,150000
+20,588,Cannon Pickell,P,Western Carolina,4YR 5S,Y,5000
+20,589,Sam Tookoian,P,Ole Miss,4YR JR,Y,50000
+20,590,Kade Brown,P,Sacramento State,4YR JR,Y,125000
+20,591,Juan Cruz,1B,Alabama State University,4YR JR,Y,150000
+20,592,Ty Peeples,OF,Franklin County HS,HS SR,N,
+20,593,Nick Frusco,P,Miller Place HS,HS SR,N,
+20,594,Leamsi Montanez,C,Leadership Christian Academy,HS SR,N,
+20,595,Jamaurion McQueen,OF,Brandon HS,HS SR,Y,280000
+20,596,Elijah McNeal,SS,Dublin HS,HS SR,N,
+20,597,Ike Young,P,Monticello HS,HS SR,N,
+20,598,Garrison Sumner,P,Brigham Young U,4YR JR,N,
+20,599,Michael Hilker,P,U Arizona,4YR JR,Y,125000
+20,600,Chase Heath,C,U Central Missouri,4YR SR,Y,5000
+20,601,Freddy Rodriguez,P,U Hawaii,4YR JR,Y,50000
+20,602,Estevan Moreno,SS,Notre Dame,4YR JR,Y,150000
+20,603,Ethin Bingaman,P,Corona HS,HS SR,N,
+20,604,Connor Gehr,P,Meridian CC,JC J1,Y,230500
+20,605,Ma'Kale Holden,P,Thompson HS,HS SR,Y,410000
+20,606,Curtis Hebert,SS,University of Portland,4YR JR,Y,150000
+20,607,Hayden Friese,OF,Western Carolina,4YR JR,Y,100000
+20,608,Kamden Edge,P,Northern Oklahoma JC,JC J1,Y,150000
+20,609,Kameron Douglas,P,Alabama St U,4YR JR,Y,150000
+20,610,Luke Cantwell,1B,Pittsburgh,4YR SR,Y,50000
+20,611,Landon Schaefer,SS,Fayetteville Sr HS,HS SR,N,
+20,612,Vaughn Neckar,P,Vista Murrieta HS,HS SR,N,
+20,613,Garrett Stratton,P,Rice,4YR JR,Y,150000
+20,614,Bryce Martin-Grudzielanek,SS,USC,4YR SR,Y,150000
+20,615,Shane Brinham,P,Handsworth SS,HS JR,N,

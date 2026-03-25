@@ -1,0 +1,308 @@
+teamid,Team,FullTeamName,conference_id,conference
+59,DAV,Davidson College ,25,A-10
+60,DAY,University of Dayton ,25,A-10
+80,FOR,Fordham University ,25,A-10
+83,GMU,George Mason University ,25,A-10
+84,GW,George Washington University ,25,A-10
+244,JOES,Saint Joseph's University ,25,A-10
+141,MASS,University of Massachusetts Amherst ,25,A-10
+216,RICH,University of Richmond ,25,A-10
+243,SBU,St. Bonaventure University ,25,A-10
+245,SLU,Saint Louis University ,25,A-10
+214,URI,University of Rhode Island,25,A-10
+286,VCU,Virginia Commonwealth University ,25,A-10
+186,CLT,University of North Carolina Charlotte ,24,AAC
+65,ECU,East Carolina University ,24,AAC
+75,FAU,Florida Atlantic University ,24,AAC
+144,MEM,University of Memphis ,24,AAC
+215,RICE,Rice University ,24,AAC
+273,TULN,Tulane University ,24,AAC
+5,UAB,University of Alabama at Birmingham ,24,AAC
+233,USF,University of South Florida ,24,AAC
+262,UTSA,University of Texas at San Antonio ,24,AAC
+299,WICH,Wichita State University ,24,AAC
+26,BC,Boston College ,1,ACC
+37,CAL,University of California Berkeley ,1,ACC
+49,CLEM,Clemson University ,1,ACC
+64,DUKE,Duke University ,1,ACC
+78,FSU,Florida State University ,1,ACC
+88,GT,Georgia Institute of Technology ,1,ACC
+129,LOU,University of Louisville ,1,ACC
+148,MIA,University of Miami (Florida) ,1,ACC
+176,NCSU,North Carolina State University ,1,ACC
+191,ND,University of Notre Dame ,1,ACC
+205,PITT,University of Pittsburgh ,1,ACC
+250,STAN,Stanford University ,1,ACC
+175,UNC,University of North Carolina Chapel Hill ,1,ACC
+285,UVA,University of Virginia ,1,ACC
+288,VT,Virginia Polytechnic Institute & State University ,1,ACC
+290,WAKE,Wake Forest University ,1,ACC
+19,APSU,Austin Peay State University ,10,ASUN
+23,BELL,Bellarmine University ,10,ASUN
+46,CARK,University of Central Arkansas ,10,ASUN
+68,EKU,Eastern Kentucky University ,10,ASUN
+79,FGCU,Florida Gulf Coast University ,10,ASUN
+109,JAX,Jacksonville University ,10,ASUN
+124,LIP,Lipscomb University ,10,ASUN
+211,QUC,Queens University of Charlotte,10,ASUN
+251,STET,Stetson University ,10,ASUN
+190,UNA,University of North Alabama ,10,ASUN
+180,UNF,University of North Florida ,10,ASUN
+312,WES,University of West Georgia ,10,ASUN
+8,ALB,University at Albany ,29,America East
+25,BING,State University of New York at Binghamton ,29,America East
+31,BRY,Bryant University ,29,America East
+134,ME,University of Maine Orono ,29,America East
+171,NJIT,New Jersey Institute of Technology ,29,America East
+137,UMBC,University of Maryland Baltimore County ,29,America East
+142,UML,University of Massachusetts at Lowell ,29,America East
+12,ARIZ,University of Arizona ,26,Big 12
+11,ASU,Arizona State University ,26,Big 12
+21,BAY,Baylor University ,26,Big 12
+29,BYU,Brigham Young University ,26,Big 12
+48,CIN,University of Cincinnati ,26,Big 12
+98,HOU,University of Houston ,26,Big 12
+114,KSU,Kansas State University ,26,Big 12
+113,KU,University of Kansas ,26,Big 12
+196,OKST,Oklahoma State University ,26,Big 12
+259,TCU,Texas Christian University ,26,Big 12
+260,TTU,Texas Tech University ,26,Big 12
+43,UCF,University of Central Florida ,26,Big 12
+280,UTAH,University of Utah ,26,Big 12
+296,WVU,West Virginia University ,26,Big 12
+33,BUT,Butler University ,30,Big East
+53,CONN,University of Connecticut ,30,Big East
+56,CREI,Creighton University ,30,Big East
+85,GTWN,Georgetown University ,30,Big East
+228,HALL,Seton Hall University ,30,Big East
+247,SJU,St. John's University (New York) ,30,Big East
+284,VILL,Villanova University ,30,Big East
+305,XAV,Xavier University ,30,Big East
+47,CHSO,Charleston Southern University ,8,Big South
+82,GWEB,Gardner-Webb University ,8,Big South
+95,HPU,High Point University ,8,Big South
+126,LONG,Longwood University ,8,Big South
+208,PRES,Presbyterian College ,8,Big South
+213,RAD,Radford University ,8,Big South
+177,UNCA,University of North Carolina Asheville ,8,Big South
+242,UPST,University of South Carolina Upstate ,8,Big South
+301,WIN,Winthrop University ,8,Big South
+100,ILL,University of Illinois Urbana-Champaign ,11,Big Ten
+107,IOWA,University of Iowa ,11,Big Ten
+104,IU,Indiana University Bloomington ,11,Big Ten
+136,MD,University of Maryland College Park ,11,Big Ten
+150,MICH,University of Michigan ,11,Big Ten
+153,MINN,University of Minnesota Twin Cities ,11,Big Ten
+151,MSU,Michigan State University ,11,Big Ten
+164,NEB,University of Nebraska Lincoln ,11,Big Ten
+184,NU,Northwestern University ,11,Big Ten
+200,ORE,University of Oregon,11,Big Ten
+194,OSU,Ohio State University ,11,Big Ten
+203,PSU,Pennsylvania State University ,11,Big Ten
+210,PUR,Purdue University ,11,Big Ten
+218,RUTG,Rutgers State Univ of New Jersey New Brunswick ,11,Big Ten
+279,UCLA,University of California Los Angeles ,11,Big Ten
+237,USC,University of Southern California ,11,Big Ten
+291,WASH,University of Washington ,11,Big Ten
+34,CP,California Polytechnic State University ,19,Big West
+40,CSUB,California State University Bakersfield,19,Big West
+35,CSUF,California State University Fullerton ,19,Big West
+36,CSUN,California State University Northridge ,19,Big West
+94,HAW,University of Hawaii Manoa ,19,Big West
+125,LBSU,Long Beach State University ,19,Big West
+277,UCD,University of California Davis ,19,Big West
+274,UCI,University of California Irvine ,19,Big West
+276,UCR,University of California Riverside ,19,Big West
+275,UCSB,University of California Santa Barbara ,19,Big West
+278,UCSD,University of California San Diego ,19,Big West
+57,DBU,Dallas Baptist University ,21,C-USA
+76,FIU,Florida International University ,21,C-USA
+110,JVST,Jacksonville State University ,21,C-USA
+115,KENN,Kennesaw State University ,21,C-USA
+122,LIB,Liberty University ,21,C-USA
+132,LT,Louisiana Tech University ,21,C-USA
+152,MTSU,Middle Tennessee State University ,21,C-USA
+169,NMSU,New Mexico State University ,21,C-USA
+220,SHSU,Sam Houston State University ,21,C-USA
+294,WKU,Western Kentucky University ,21,C-USA
+41,CAM,Campbell University ,20,CAA
+51,COFC,College of Charleston (South Carolina) ,20,CAA
+61,DEL,University of Delaware ,20,CAA
+70,ELON,Elon University ,20,CAA
+96,HOF,Hofstra University ,20,CAA
+159,MONM,Monmouth University ,20,CAA
+188,NCAT,North Carolina A&T State University ,20,CAA
+181,NE,Northeastern University ,20,CAA
+253,STBK,Stony Brook University ,20,CAA
+271,TOW,Towson University ,20,CAA
+187,UNCW,University of North Carolina Wilmington ,20,CAA
+300,W&M,College of William and Mary ,20,CAA
+302,MILW,University of Wisconsin Milwaukee ,16,Horizon League
+189,NKU,Northern Kentucky University ,16,Horizon League
+192,OAK,Oakland University ,16,Horizon League
+108,PFW,Indiana University-Purdue University Fort Wayne ,16,Horizon League
+304,WRST,Wright State University ,16,Horizon League
+307,YSU,Youngstown State University ,16,Horizon League
+30,BRWN,Brown University ,32,Ivy League
+52,COLU,Columbia University,32,Ivy League
+55,COR,Cornell University ,32,Ivy League
+58,DART,Dartmouth College ,32,Ivy League
+93,HARV,Harvard University ,32,Ivy League
+202,PENN,University of Pennsylvania ,32,Ivy League
+209,PRIN,Princeton University ,32,Ivy League
+306,YALE,Yale University ,32,Ivy League
+42,CAN,Canisius College ,33,MAAC
+72,FAIR,Fairfield University ,33,MAAC
+106,IONA,Iona College ,33,MAAC
+135,MAN,Manhattan College ,33,MAAC
+147,MRMK,Merrimack College ,33,MAAC
+139,MRST,Marist College ,33,MAAC
+161,MSM,Mount St. Mary's University ,33,MAAC
+172,NIA,Niagara University ,33,MAAC
+212,QUIN,Quinnipiac University ,33,MAAC
+217,RID,Rider University ,33,MAAC
+219,SHU,Sacred Heart University ,33,MAAC
+229,SIE,Siena College ,33,MAAC
+248,SPU,St. Peter's College ,33,MAAC
+3,AKR,University of Akron ,3,MAC
+20,BALL,Ball State University ,3,MAC
+27,BGSU,Bowling Green State University ,3,MAC
+44,CMU,Central Michigan University ,3,MAC
+66,EMU,Eastern Michigan University ,3,MAC
+116,KENT,Kent State University ,3,MAC
+149,M-OH,Miami University (Ohio) ,3,MAC
+183,NIU,Northern Illinois University ,3,MAC
+193,OHIO,Ohio University ,3,MAC
+270,TOL,University of Toledo ,3,MAC
+295,WMU,Western Michigan University ,3,MAC
+22,BEL,Belmont University ,17,MVC
+28,BRAD,Bradley University ,17,MVC
+71,EVAN,University of Evansville ,17,MVC
+101,ILST,Illinois State University ,17,MVC
+105,INST,Indiana State University ,17,MVC
+158,MOST,Missouri State University ,17,MVC
+162,MUR,Murray State University ,17,MVC
+235,SIU,Southern Illinois University at Carbondale ,17,MVC
+102,UIC,University of Illinois at Chicago ,17,MVC
+282,VAL,Valparaiso University ,17,MVC
+2,AFA,U.S. Air Force Academy ,22,MWC
+81,FRES,California State University Fresno ,22,MWC
+166,NEV,University of Nevada ,22,MWC
+222,SDSU,San Diego State University ,22,MWC
+224,SJSU,San Jose State University ,22,MWC
+167,UNLV,University of Nevada Las Vegas ,22,MWC
+168,UNM,University of New Mexico ,22,MWC
+45,CCSU,Central Connecticut State University ,27,NEC
+54,COPP,Coppin State University ,27,NEC
+62,DSU,Delaware State University ,27,NEC
+73,FDU,Fairleigh Dickinson University Metropolitan ,27,NEC
+120,LEM,Le Moyne College ,27,NEC
+127,LIU,Long Island University Brooklyn Campus ,27,NEC
+311,MERC,Mercyhurst College ,27,NEC
+174,NORF,Norfolk State University ,27,NEC
+254,STO,Stonehill College ,27,NEC
+138,UMES,University of Maryland Eastern Shore ,27,NEC
+289,WAG,Wagner College ,27,NEC
+69,EIU,Eastern Illinois University ,13,OVC
+123,LIN,Lindenwood University,13,OVC
+15,LR,University of Arkansas Little Rock ,13,OVC
+160,MORE,Morehead State University ,13,OVC
+234,SEMO,Southeast Missouri State University ,13,OVC
+241,SIUE,Southern Illinois University Edwardsville ,13,OVC
+257,TNTC,Tennessee Technological University ,13,OVC
+240,USI,University of Southern Indiana ,13,OVC
+258,UTM,University of Tennessee at Martin ,13,OVC
+293,WIU,Western Illinois University ,13,OVC
+199,ORST,Oregon State University ,9,Pac-12
+292,WSU,Washington State University ,9,Pac-12
+17,ARMY,U.S. Military Academy ,5,Patriot League
+32,BUCK,Bucknell University ,5,Patriot League
+97,HC,College of the Holy Cross ,5,Patriot League
+118,LAF,Lafayette College ,5,Patriot League
+121,LEH,Lehigh University ,5,Patriot League
+163,NAVY,U.S. Naval Academy ,5,Patriot League
+4,ALA,University of Alabama Tuscaloosa ,34,SEC
+13,ARK,University of Arkansas Fayetteville ,34,SEC
+18,AUB,Auburn University ,34,SEC
+74,FLA,University of Florida ,34,SEC
+130,LSU,Louisiana State University ,34,SEC
+154,MISS,University of Mississippi ,34,SEC
+157,MIZ,University of Missouri Columbia ,34,SEC
+155,MSST,Mississippi State University ,34,SEC
+195,OU,University of Oklahoma ,34,SEC
+231,SC,University of South Carolina Columbia ,34,SEC
+263,TA&M,Texas A&M University College Station ,34,SEC
+256,TENN,University of Tennessee Knoxville ,34,SEC
+265,TEX,University of Texas at Austin ,34,SEC
+86,UGA,University of Georgia ,34,SEC
+117,UK,University of Kentucky ,34,SEC
+283,VAN,Vanderbilt University ,34,SEC
+7,AAMU,Alabama A&M University ,15,SWAC
+9,ALCN,Alcorn State University ,15,SWAC
+6,ALST,Alabama State University ,15,SWAC
+24,BCU,Bethune Cookman University ,15,SWAC
+77,FAMU,Florida A&M University ,15,SWAC
+91,GRAM,Grambling State University ,15,SWAC
+111,JKST,Jackson State University ,15,SWAC
+156,MVSU,Mississippi Valley State University ,15,SWAC
+207,PV,Prairie View A&M University ,15,SWAC
+239,SOU,Southern University Baton Rouge ,15,SWAC
+267,TXSO,Texas Southern University ,15,SWAC
+16,UAPB,University of Arkansas Pine Bluff ,15,SWAC
+269,CIT,The Citadel ,14,SoCon
+67,ETSU,East Tennessee State University ,14,SoCon
+145,MER,Mercer University ,14,SoCon
+221,SAM,Samford University ,14,SoCon
+178,UNCG,University of North Carolina at Greensboro ,14,SoCon
+287,VMI,Virginia Military Institute ,14,SoCon
+297,WCU,Western Carolina University ,14,SoCon
+303,WOF,Wofford College ,14,SoCon
+266,AMCC,Texas A&M University Corpus Christi ,23,Southland
+99,HCU,Houston Christian University,23,Southland
+119,LAM,Lamar University ,23,Southland
+143,MCN,McNeese State University ,23,Southland
+173,NICH,Nicholls State University ,23,Southland
+185,NWST,Northwestern State University ,23,Southland
+268,RGV,University of Texas Rio Grande Valley,23,Southland
+238,SELA,Southeastern Louisiana University ,23,Southland
+252,SFA,Stephen F. Austin State University ,23,Southland
+103,UIW,University of the Incarnate Word ,23,Southland
+170,UNO,University of New Orleans ,23,Southland
+179,NDSU,North Dakota State University ,4,Summit League
+165,OMA,University of Nebraska at Omaha ,4,Summit League
+198,ORU,Oral Roberts University ,4,Summit League
+232,SDST,South Dakota State University ,4,Summit League
+249,STMN,University of St. Thomas (Minnesota) ,4,Summit League
+182,UNCO,University of Northern Colorado ,4,Summit League
+10,APP,Appalachian State University ,6,Sun Belt
+14,ARST,Arkansas State University ,6,Sun Belt
+50,CCU,Coastal Carolina University ,6,Sun Belt
+87,GASO,Georgia Southern University ,6,Sun Belt
+89,GAST,Georgia State University ,6,Sun Belt
+112,JMU,James Madison University ,6,Sun Belt
+140,MRSH,Marshall University ,6,Sun Belt
+197,ODU,Old Dominion University ,6,Sun Belt
+272,TROY,Troy University ,6,Sun Belt
+264,TXST,Texas State University San Marcos ,6,Sun Belt
+131,UL,University of Louisiana at Lafayette ,6,Sun Belt
+128,ULM,University of Louisiana at Monroe ,6,Sun Belt
+230,USA,University of South Alabama ,6,Sun Belt
+236,USM,University of Southern Mississippi ,6,Sun Belt
+1,ACU,Abilene Christian University ,28,WAC
+39,CBU,California Babtist University,28,WAC
+92,GCU,Grand Canyon University ,28,WAC
+38,SAC,California State University Sacramento ,28,WAC
+227,SEA,Seattle University,28,WAC
+255,TAR,Tarleton State University ,28,WAC
+261,UTA,University of Texas at Arlington ,28,WAC
+63,UTU,Dixie State College of Utah ,28,WAC
+281,UVU,Utah Valley State College ,28,WAC
+90,GONZ,Gonzaga University ,18,WCC
+133,LMU,Loyola Marymount University ,18,WCC
+201,PAC,University of the Pacific ,18,WCC
+204,PEPP,Pepperdine University ,18,WCC
+206,PORT,University of Portland ,18,WCC
+226,SCU,Santa Clara University ,18,WCC
+223,SF,University of San Francisco ,18,WCC
+246,SMC,St. Mary's College of California ,18,WCC
+225,USD,University of San Diego ,18,WCC
